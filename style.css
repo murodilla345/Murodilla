@@ -1,0 +1,44 @@
+.h1{
+    color: darkblue;
+    border-radius: 45px;
+    background-color: aqua;
+    text-align: center;
+    border: 5px solid red;
+}
+span{
+    color: red;
+}
+.table{
+    text-align: center;
+}
+.t1{
+    color: rgb(0, 98, 0);
+}
+.t2{
+    color: red;
+}
+.t3{
+    color: yellow;
+}
+.t4{
+    color: green;
+}
+.t5{
+    color: black;
+}
+.caption{
+    background-color: yellow;
+    color: black;
+}
+.tr1{
+    background-color: red;
+}
+.text1{
+    background-color: green;
+    color: black;
+}
+button{
+    background-color: rgb(0, 255, 0);
+    width: 300px;
+    height: 30px;
+}
